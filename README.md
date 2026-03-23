@@ -13,4 +13,4 @@ Final-year CS student at SRM Institute of Technology. I work on **continual lear
 - Research Intern, Samsung Research Institute Bangalore (Jan–Jun 2025)
 - OTIS++ — Edge-AI occupancy detection on Raspberry Pi. AIoT Project Expo 2024 winner, ₹80,000 Dean's funding.
 
-📫 sharanyakatna13@gmail.com
+✉️ sharanyakatna13@gmail.com
