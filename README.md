@@ -1,6 +1,6 @@
 ## Sharanya Katna
 
-M1 AI at Paris Saclay.
+M1 AI at Paris Saclay
 
 ### Research
 
