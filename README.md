@@ -1,6 +1,6 @@
 ## Sharanya Katna
 
-M1 AI at Paris Saclay. I work on **continual learning** and **self-supervised learning** — specifically, how models can keep learning without forgetting and without human supervision.
+M1 AI at Paris Saclay.
 
 ### Research
 
